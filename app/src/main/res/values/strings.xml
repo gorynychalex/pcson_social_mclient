@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Социальный работник</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">КГАУСО "ПЦСОН"</string>
+    <string name="nav_header_subtitle">centr@pcson.ru</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_header_title_family1">Иванов И.И.</string>
+    <string name="nav_header_title_family2">Петров П.П.</string>
+    <string name="nav_header_title_family3">Сидоров С.С.</string>
+</resources>
